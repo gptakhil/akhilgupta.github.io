@@ -1,12 +1,12 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: Akhil Gupta
+description: Software Developer. Enthusiastic learner. Passionate Programmer. Focused and Goal Driven Individual.
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Akhil Gupta
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
+user_description: An enthusiastic Software Developer with hands-on experience of approximately one year in Python and Ruby On Rails. I am a passionate programmer who always tries to write clean and efficient code. A focused and goal driven individual with good work ethics, self-motivated person who thrives to learn and adapt to emerging technologies and is always looking forward to improve the quality of work.
 user_title: Software Developer
 email: cse.akhil002@gmail.com
 github_username:  gptakhil
